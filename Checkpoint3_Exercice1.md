@@ -5,4 +5,5 @@
 . le profil de **Kelly Rhameur**
 ![](ressources/Profil_de_Kelly_Rhameur.png)
 . Création de **Lionel Lemarchand**
-![](
+![](ressources/Création_Lionel_Lemarchand.png)
+
