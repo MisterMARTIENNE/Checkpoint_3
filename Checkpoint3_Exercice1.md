@@ -12,3 +12,8 @@ Partie 1 : Gestion des utilisateurs
 
 ![](Creation_Lionel_Lemarchand.png)
 
+**Q 1.1.2**
+
+. Création du OU DeactivedUsed et Mise de **Kelly Rhameur** dans ce OU
+
+![](
