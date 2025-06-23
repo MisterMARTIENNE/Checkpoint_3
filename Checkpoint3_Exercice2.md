@@ -50,4 +50,5 @@ Partie 6 : Analyse de logs
 ```
 ** Q 2.6.1 **
  J'ai fait un cat /var/log/syslog | grap fail et j'ai rien trouvé. Je ne dois pas regarder le bon fichier de log
+![](cat_syslog.png)
  
