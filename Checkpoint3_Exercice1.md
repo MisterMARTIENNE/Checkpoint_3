@@ -1,5 +1,5 @@
-```Diff
-**Partie 1 : Gestion des utilisateurs**
+```diff
+Partie 1 : Gestion des utilisateurs
 ```
 
 **Q 1.1.1**
