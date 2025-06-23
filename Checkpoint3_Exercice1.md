@@ -22,3 +22,6 @@ Partie 1 : Gestion des utilisateurs
 . Modification du OU DirectionDesRessourcesHumaines
 
 ![](OU_ressources_humaines_modifie.png)
+
+**Q 1.1.4**
+
