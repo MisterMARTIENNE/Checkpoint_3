@@ -25,3 +25,8 @@ Partie 1 : Gestion des utilisateurs
 
 **Q 1.1.4**
 
+```red
+Partie 2 : Restriction utilisateurs et Partie 3 : Lecteurs réseaux
+```
+
+. Elles ne sont pas effectué.
