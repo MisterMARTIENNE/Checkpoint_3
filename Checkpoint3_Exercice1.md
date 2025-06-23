@@ -16,4 +16,9 @@ Partie 1 : Gestion des utilisateurs
 
 . Création du OU DeactivedUsed et Mise de **Kelly Rhameur** dans ce OU
 
+![](DeactivatedUsers_Kelly.png)
+
+**Q 1.1.3**
+. Modification du OU DirectionDesRessourcesHumaines
+
 ![](
